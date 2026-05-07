@@ -1,7 +1,6 @@
 # Gold Trading System - Système de Trading Automatique IA
 
-Système de trading automatique basé sur l'intelligence artificielle pour le marché de l'or (XAUUSD), développé dans le cadre d'un projet de fin d'études (PFE).
-
+Système de trading automatique basé sur l'intelligence artificielle pour le marché de l'or (XAUUSD)
 ## 📋 Table des Matières
 
 - [Vue d'ensemble](#vue-densemble)
@@ -286,13 +285,6 @@ Les logs sont sauvegardés dans `logs/`:
 - `model_training.log`: Entraînement du modèle
 - `live_trading.log`: Trading en temps réel
 
-## 🤝 Contribution
-
-Ce projet est développé dans le cadre d'un PFE. Pour toute question ou suggestion:
-
-1. Ouvrir une issue
-2. Proposer une pull request
-3. Contacter les développeurs
 
 ## ⚠️ Avertissements
 
@@ -302,17 +294,6 @@ Ce projet est développé dans le cadre d'un PFE. Pour toute question ou suggest
 - Utilisez toujours un compte démo pour tester
 - Consultez un conseiller financier avant le trading réel
 
-## 📝 Licence
 
-Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
-
-## 🙏 Remerciements
-
-- **Anthropic** pour Claude
-- **MetaQuotes** pour MetaTrader 5
-- **XGBoost team** pour le framework ML
-- **Scikit-learn** pour les outils de ML
-
----
 
 **Note importante**: Ce système est un outil d'aide à la décision. La décision finale de trading revient toujours à l'utilisateur. Tradez de manière responsable.
